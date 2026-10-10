@@ -1,0 +1,12 @@
+# competition data may not be redistributed; the corpus is never committed
+data/
+cache/
+runs/
+*.pdf
+*.zip
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.venv/
